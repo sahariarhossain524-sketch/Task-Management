@@ -1,29 +1,64 @@
-# 🚀 Pro Kanban Board (Task Management)
+<div align="center">
+  <br />
+    <a href="https://kanban-board-alpha-ochre-29.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-View_Project-2563EB?style=for-the-badge&logo=vercel" alt="Live Demo" />
+    </a>
+  <br />
+  <br />
 
-A robust, enterprise-grade drag-and-drop task management application designed for productivity. Built to showcase complex state management and interactive UI component design.
+  <h1>✅ Kanban Task Management</h1>
+  
+  <p>
+    A robust drag-and-drop task management application built with Next.js and Tailwind CSS. Features complex state management, interactive UI components, and a modern project management aesthetic.
+  </p>
+</div>
 
-### 🔴 [Click Here to View Live Project](https://kanban-board-alpha-ochre-29.vercel.app)
+---
 
-![Kanban Preview](https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=1600&q=80)
+## 🚀 Features
 
-## ✨ Key Features
+- **Drag-and-Drop Interface**: Seamlessly move tasks between different columns (To Do, In Progress, Done).
+- **Persistent State**: Robust task state management powered by Zustand.
+- **Interactive UI Components**: Beautiful, highly responsive task cards, modals, and input fields.
+- **Modern Aesthetic**: A clean, distraction-free environment for maximizing productivity.
+- **Fully Responsive**: Works beautifully on mobile, tablet, and desktop devices.
 
-- **Drag & Drop Functionality**: Seamlessly move tasks between columns (Todo, In Progress, Done) using `@hello-pangea/dnd`.
-- **Complex State Management**: Efficient global state handling using **Zustand**.
-- **Modern Tech Stack**: Built with Next.js (App Router), React, and TypeScript.
-- **Premium UI/UX**: Styled with Tailwind CSS, featuring a clean, minimalist, and highly responsive design.
-- **Interactive Components**: Modal dialogs, smooth transitions, and real-time UI updates.
+## 💻 Tech Stack
 
-## 🛠️ Technologies Used
+| Technology | Description |
+|------------|-------------|
+| **Next.js** | React framework for production-grade applications |
+| **React DnD** | Complex drag-and-drop interactions |
+| **Zustand** | Lightweight and scalable state management |
+| **Tailwind CSS** | Utility-first styling engine |
+| **TypeScript** | Type-safe development |
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) (State Management)
-- [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) (Drag and Drop)
-- [Lucide React](https://lucide.dev/) (Icons)
+## 🛠️ Installation & Setup
 
-## 👨‍💻 Author
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sahariarhossain524-sketch/Task-Management.git
+   ```
 
-Designed and developed to demonstrate professional frontend engineering capabilities, specifically focusing on complex user interactions and state management.
+2. **Navigate to the directory**
+   ```bash
+   cd Task-Management
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+## 🌐 Live Demo
+Check out the live deployment here: [https://kanban-board-alpha-ochre-29.vercel.app](https://kanban-board-alpha-ochre-29.vercel.app)
+
+<hr />
+<div align="center">
+  <sub>Built by <b>Sahariar Hossain</b> (AI-Assisted Full Stack Developer)</sub>
+</div>
